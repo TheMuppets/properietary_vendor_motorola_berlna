@@ -216,7 +216,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/berlna/proprietary/vendor/firmware/CAMERA_ICP_170.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP_170.elf \
     vendor/motorola/berlna/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_603A.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_603A.csv \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw8695_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_haptic.bin \
+    vendor/motorola/berlna/proprietary/recovery/root/vendor/firmware/aw8695_haptic.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/aw8695_haptic.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw8695_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp.bin \
+    vendor/motorola/berlna/proprietary/recovery/root/vendor/firmware/aw8695_rtp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/aw8695_rtp.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw8695_rtp_Argo_Navis.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Argo_Navis.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw8695_rtp_Attentive.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Attentive.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw8695_rtp_Awake.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_rtp_Awake.bin \
@@ -269,8 +271,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw882xx_afe_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_afe_params.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/mp-novatek_ts-NT36675-21061805-603a-berlna.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mp-novatek_ts-NT36675-21061805-603a-berlna.bin \
+    vendor/motorola/berlna/proprietary/recovery/root/vendor/firmware/mp-novatek_ts-NT36675-21061805-603a-berlna.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/mp-novatek_ts-NT36675-21061805-603a-berlna.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/novatek_ts-NT36675-21042101-603a-berlna-evt.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts-NT36675-21042101-603a-berlna-evt.bin \
+    vendor/motorola/berlna/proprietary/recovery/root/vendor/firmware/novatek_ts-NT36675-21042101-603a-berlna-evt.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts-NT36675-21042101-603a-berlna-evt.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/novatek_ts-NT36675-21061805-603a-berlna.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts-NT36675-21061805-603a-berlna.bin \
+    vendor/motorola/berlna/proprietary/recovery/root/vendor/firmware/novatek_ts-NT36675-21061805-603a-berlna.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/novatek_ts-NT36675-21061805-603a-berlna.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw.bin \
     vendor/motorola/berlna/proprietary/vendor/firmware/st21nfc_fw7.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw7.bin \
     vendor/motorola/berlna/proprietary/vendor/lib/camera/com.mot.eeprom.mot_gt24p64e_ov32b40_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.mot.eeprom.mot_gt24p64e_ov32b40_eeprom.so \
