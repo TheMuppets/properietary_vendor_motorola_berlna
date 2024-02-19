@@ -6,7 +6,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),berlna)
 
-$(call add-radio-file-sha1-checked,radio/bluetooth.img,b3cf3ea0ac7cff839bf5a32adcb38a9b0fdd0587)
+$(call add-radio-file-sha1-checked,radio/bluetooth.img,27679c062c52ddf2c99cca1319229e80d01c3130)
 $(call add-radio-file-sha1-checked,radio/dsp.img,72c78cc1886db44fdb7893f8734a002552151a50)
 
 endif
